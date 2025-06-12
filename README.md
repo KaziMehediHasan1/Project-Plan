@@ -16,5 +16,5 @@
 13. Future Enhancement
 14. Project Management Tools 
 
-![Diagram](https://i.ibb.co/kgSWzXGj/diagram-export-6-12-2025-7-46-21-PM.png)
+[Diagram](https://i.ibb.co/kgSWzXGj/diagram-export-6-12-2025-7-46-21-PM.png)
 
